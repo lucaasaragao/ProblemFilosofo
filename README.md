@@ -2,8 +2,8 @@
 ---
 
 ## 📑 Sobre
-Exemplo código Java de uma possivel resolução do problema da "mesa dos filosofos" usando o **syncronized**.
-Desenvolvido para a cadeira de Sistemas Operações, afim de entender como funcionam as threads dos sistemas operacionais. 
+Exemplo código Java de uma possível resolução do problema da "mesa dos filosofos" usando o **syncronized**.
+Desenvolvido para a cadeira de Sistemas Operacionais, afim de entender como funcionam as threads dos sistemas operacionais. 
 
 ### 🥣 Sobre o problema
 O problema do jantar dos filósofos foi formulado e resolvido por Dijkstra em 1959.
